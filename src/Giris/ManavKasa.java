@@ -29,6 +29,6 @@ public class ManavKasa {
         kilo = scn.nextInt();
         toplam += (kilo * patlican);
 
-        System.out.println("Toplam tutar: " + toplam + "TL");
+        System.out.println(-Math.pow(2,31));
     }
 }
